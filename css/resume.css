@@ -29,10 +29,9 @@
 
 #sideNav .navbar-nav a{
 	color: white;
-	/*just added*/
 	text-decoration: none;
 	display: block;
-	font-weight: 600; /*change*/
+	font-weight: 600;
 	text-transform: uppercase;
 	padding: .5rem 1rem;
 	/*letter-spacing: .05rem;*/
@@ -49,6 +48,7 @@
 }
 
 #Profile{
+	padding-top: 5rem;
 	display: block;
 	font-size:25px;
 	padding: 10px;
@@ -57,6 +57,7 @@
 	font-family: "Helvetica";
 	width: 60%;
 		margin:auto;
+	padding-bottom: 5rem;
 }
 
 #Profile h1{
@@ -108,9 +109,9 @@
 	/*text-indent: 250px;*/
 	width: 60%;
 		margin: auto;
-/*	padding-top: 5rem;
+	padding-top: 5rem;
 	padding-bottom: 5rem;
-	max-width: 75rem;*/
+
 }
 
 /*/*#Education*/ .date-school{
@@ -135,7 +136,8 @@
 	text-align: left;
 	width: 70%;
 		margin-left: 20%;
-	/*border-right: -10px;*/
+	padding-top: 5rem;
+	padding-bottom: 5rem;
 }
 /*#Skills ul{
 	display: block;
@@ -164,6 +166,8 @@
 	margin-left: 250px;
 	width: 60%;
 		margin: auto;
+	padding-top: 5rem;
+	padding-bottom: 5rem;
 }
 
 .dot{
