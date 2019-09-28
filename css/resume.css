@@ -189,7 +189,11 @@ a:hover, a:focus, a:active {
 }
 
 #Experience{
-	
+	margin-left: 250px;
+	width: 60%;
+		margin: auto;
+	padding-top: 5rem;
+	padding-bottom: 5rem;
 }
 
 .Experience{
